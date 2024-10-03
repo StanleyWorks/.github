@@ -4,7 +4,7 @@ Welcome to **StanleyWorks**. This organization serves as the home for my profess
 
 ### **A Bit About Me**
 
-I'm Stanley, passionate about Software Engieering. Through StanleyWorks, I'm showcasing the breadth of my technical abilities, even if the code itself isn't always open for public viewing.
+I'm Stanley, passionate about Software Engineering. Through StanleyWorks, I'm showcasing the breadth of my technical abilities, even if the code itself isn't always open for public viewing.
 
 ### What You'll Find Here
 
