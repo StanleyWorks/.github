@@ -24,4 +24,4 @@ Feel free to connect or discuss any of the work you see linked here:
 I work with a diverse set of technologies, including but not limited to:
 
 - **Languages:** Rust, JavaScript/TypeScript, PHP
-- **Frameworks/Tools:** Laravel, Vue.js, Node.js, multiple cloud
+- **Frameworks/Tools:** Laravel, Vue.js, Node.js, multiple clouds (AWS, Azure, GCP)
